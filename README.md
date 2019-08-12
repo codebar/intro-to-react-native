@@ -24,7 +24,7 @@ You'll need to have a macbook with an up-to-date version of XCode installed.
 
 You can run Android on any platform, including Windows and Linux.
 
-Download [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) adn [Android studio](https://developer.android.com/studio/index.html) (make sure you install SDK 9 wheen installing Android studio).
+Download [JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) and [Android studio](https://developer.android.com/studio/index.html) (make sure you install SDK 9 wheen installing Android studio).
 
 Then add these variables to your `.bash_profile`:
 
